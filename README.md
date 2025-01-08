@@ -1,5 +1,5 @@
 
-# 🍿Movie Theater Application 🎬  <a id="Movie Theater Application-top"></a>
+# 🍿Movie Theater Application 🎬  <a id="top"></a>
 
 ## Virtual Movie Theater
 
@@ -15,16 +15,16 @@ Welcome to the **Movie Theater Application** – a virtual cinema experience tha
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [License](#license)
+- [Future Improvements](#future improvements)
 
 ---
 
-## Overview
+## Overview <a id="overview"></a>
 This Java application simulates a virtual movie theater experience.  Users can deposit money into a movie theater card, purchase movie tickets, and order food or drinks from a categorized menu.  The project follows Object-Oriented Programming (OOP) principles and uses interfaces with multiple classes.
 
 ---
 
-## Features
+## Features <a id="features"></a>
 - **Deposit Funds:** Users can deposit money in increments of $5, $10, $25, $50, or $100.
 - **Buy Movie Tickets:** Select available seats and purchase tickets directly through the app.
 - **Snack Bar:** Purchase snacks, drinks, and combo meals from a diverse menu.
@@ -34,13 +34,13 @@ This Java application simulates a virtual movie theater experience.  Users can d
 
 ---
 
-## Installation
+## Installation <a id="installation"></a>
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/username/movietheaterapp.git
    cd movieTheater/src/main/java
 
-## Usage
+## Usage <a id="usage"></a>
 1. **Run App**  
    Go to folder where MovieTheaterApp is located at and run the following line
    ```bash
@@ -75,14 +75,14 @@ Seat: 5
 
 ```
 
-## Technologies
+## Technologies <a id="technologies"></a>
 - **Java**
 -  **Object-Oriented Programming (OOP)**
 -  **Console Interface**
 
-## Future Improvements
+## Future Improvements <a id="future improvements"></a>
 -   Advanced seat reservation with **layout visualization**
 -   **Premium** and **VIP** options for account holders
 -   **Discount Offers**
 
-<p align="right">(<a href="#Movie Theater Application-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
