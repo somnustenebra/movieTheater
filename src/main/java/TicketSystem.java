@@ -78,6 +78,9 @@ public class TicketSystem implements TicketOperations{
         String auditorium = auditoriums[random.nextInt(auditoriums.length)];
         String time = times[random.nextInt(times.length)];
 
+        /*
+        Need to create a log.txt file for this
+         */
         System.out.println("\n--- Ticket ---");
         System.out.println("Movie: " + movie);
         System.out.println("Auditorium: " + auditorium);
